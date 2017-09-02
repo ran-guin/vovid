@@ -1,0 +1,10 @@
+{
+ "name": "ovid",
+ "version": "0.0.1",
+ "description": "Online Vaccination Interface Environment",
+ "author": "Ran Guin",
+ "private": true,
+ "scripts": {
+   "postinstall": "npm install express"
+ }
+}
