@@ -2,7 +2,7 @@ export default {
   links: ['Visit', 'User', 'Stats'],
 
   vaccineURL: 'https://vaccineURL',
-  userURL: 'http://localhost:1234/Record_API/search?table=user',
-  dbURL: 'http://localhost:1234/Record_API/fields',
-  apiUrl: 'http://localhost:3001/'
+  userURL: 'https://litmus-a1.herokuapp.com/Record_API/search?table=user',
+  dbURL: 'https://litmus-a1.herokuapp.com/Record_API/fields',
+  apiUrl: 'https://test-api.herokuapp.com'
 }
